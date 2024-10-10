@@ -9,7 +9,7 @@ Typescript, React Native,
 
 🚀 What I do Develop responsive and dynamic web applications using the MERN stack Create intuitive user interfaces and engaging user experiences Design logos, branding materials, and marketing collateral
 
-💞️ I’m looking to collaborate on ...
+💞️ I’m open for collaboration
 
 📫 How to reach me
 
