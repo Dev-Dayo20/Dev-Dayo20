@@ -4,6 +4,8 @@
 - Innovating through design, engineering through code.
 - 💞️ I’m looking to collaborate.
 
+- Languages: HTML    CSS     JAVASCRIPT  TYPESCRIPT
+- Frameworks: REACT   BOOSTRAP   TAILWIND   NODE.JS   EXPRESS
 
 <!---
 Dev-Dayo20/Dev-Dayo20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
