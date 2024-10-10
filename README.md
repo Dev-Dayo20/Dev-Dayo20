@@ -4,16 +4,6 @@
 - Innovating through design, engineering through code.
 - 💞️ I’m looking to collaborate.
 
-- AREA OF EXPERTISE
-
-- HTML
-- CSS
-- BOOSTRAP
-- TAILWIND
-- JAVASCRIPT
-- REACT
-- NODE.JS
-- MONGODB
 
 <!---
 Dev-Dayo20/Dev-Dayo20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
