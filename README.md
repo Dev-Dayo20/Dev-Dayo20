@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-Dayo20
-- 👀 I’m interested in learning fullstack web development 
-- 🌱 I’m currently learning JavaScript 
+- 👀  MERN stack developer
+- 🌱 Combining creativity and engineering to build impactful digital solutions 
 - 💞️ I’m looking to collaborate. 
 
 <!---
