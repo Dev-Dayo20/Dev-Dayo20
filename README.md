@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dev-Dayo20
 - 👀  MERN stack developer
-- 🌱 Combining creativity and engineering to build impactful digital solutions 
+- 🌱 Combining creativity and engineering to build impactful digital solutions
+- Innovating through design, engineering through code.
 - 💞️ I’m looking to collaborate. 
 
 <!---
