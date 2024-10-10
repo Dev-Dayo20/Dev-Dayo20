@@ -1,11 +1,23 @@
 - 👋 Hi, I’m @Dev-Dayo20
-- 👀  MERN stack developer
-- 🌱 Combining creativity and engineering to build impactful digital solutions
-- Innovating through design, engineering through code.
-- 💞️ I’m looking to collaborate.
+💻 Full Stack Developer | 🎨 Graphic Designer I'm passionate about creating beautiful, functional web applications and eye-catching designs. With expertise in both development and design, I bring a unique perspective to every project.
 
-- Languages: HTML - CSS - JAVASCRIPT -  TYPESCRIPT
-- Frameworks:   REACT- BOOSTRAP - TAILWIND - NODE.JS - EXPRESS
+👀 Tech Stack Frontend: React.js, HTML5, CSS3, JavaScript (ES6+) Backend: Node.js, Express.js Database: MongoDB Design: Adobe Creative Suite, Figma
+
+🌱 I’m currently learning
+
+Typescript, React Native,
+
+🚀 What I do Develop responsive and dynamic web applications using the MERN stack Create intuitive user interfaces and engaging user experiences Design logos, branding materials, and marketing collateral
+
+💞️ I’m looking to collaborate on ...
+
+📫 How to reach me
+
+Linkdin: www.linkedin.com/in/adedayo-kabir-0a3a3a268
+
+Email: kabiryahaya45@gmail.com
+
+⚡ Fun fact: Guess What....
 
 <!---
 Dev-Dayo20/Dev-Dayo20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
