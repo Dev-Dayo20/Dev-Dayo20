@@ -1,25 +1,70 @@
-- 👋 Hi, I’m @Dev-Dayo20
-💻 Full Stack Developer | 🎨 Graphic Designer I'm passionate about creating beautiful, functional web applications and eye-catching designs. With expertise in both development and design, I bring a unique perspective to every project.
+# Hi there, I'm ABDULKABIR YAHAYA! 👋
 
-👀 Tech Stack Frontend: React.js, HTML5, CSS3, JavaScript (ES6+) Backend: Node.js, Express.js Database: MongoDB Design: Adobe Creative Suite, Figma
+## 🚀 About Me
+I'm a **Graphic Designer** and **Full Stack Developer** with a passion for creating visually stunning and highly functional digital experiences. I believe that great design and clean code go hand-in-hand. Currently, I'm building premium educational platforms like **T-Learn**.
 
-🌱 I’m currently learning
+- 🔭 I’m currently working on **T-Learn**
+- 🌱 I’m currently learning **AI and Machine Learning**
+- 👯 I’m looking to collaborate on **AI and Machine Learning projects**
+- 🤔 I’m looking for help with **AI and Machine Learning projects**
+- 💬 Ask me about **Design & Development**
+- 📫 How to reach me: **kabiryahaya45@gmail.com**
+- ⚡ Fun fact: I am a quick learner and a team player
 
-Typescript, React Native,
+## 🛠 Skills & Tools
+<p align="left">
+  <!-- Frontend & Languages -->
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-🚀 What I do Develop responsive and dynamic web applications using the MERN stack Create intuitive user interfaces and engaging user experiences Design logos, branding materials, and marketing collateral
+  <br/>
 
-💞️ I’m open for collaboration
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/supabase-1c1c1c.svg?style=for-the-badge&logo=supabase&logoColor=white" />
 
-📫 How to reach me
+  <br/>
 
-Linkdin: www.linkedin.com/in/adedayo-kabir-0a3a3a268
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 
-Email: kabiryahaya45@gmail.com
+   <br/>
 
-⚡ Fun fact: Guess What....
+  <!-- AI & Editors -->
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-5E5E5E?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
-<!---
-Dev-Dayo20/Dev-Dayo20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/adedayo-kabir-0a3a3a268" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/aira_graphics" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/aira_graphics" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Dayo20&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dayo20&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+
+---
+<p align="center">
+  <b>Let's build something amazing together!</b> <br/>
+  Available for freelance & collaborations. ✨
+</p>
